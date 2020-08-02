@@ -6,7 +6,7 @@
 
 <body>
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="Scared of crows .gif"/>
 
 </body>
 
