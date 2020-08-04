@@ -8,6 +8,9 @@
 
 <img src="Scared of crows .gif"/>
 
+<title>List of my favorite video games:</title>
+
+<>
 </body>
 
 <html>
