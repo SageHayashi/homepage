@@ -18,7 +18,7 @@
   <li> Undertale</li>
   <img src="Misc-Undertale_Kickstarter.png">
   <li> Mother 3</li>
-  <img src="Deluxe_package.jp">
+  <img src="Deluxe_package.jpg">
   <li> Clash of Clans</li>
   <img src="download.jpg">
   <li> Legend of Zelda Ocarina</li>
