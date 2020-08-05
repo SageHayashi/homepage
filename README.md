@@ -1,7 +1,9 @@
-# homepage
+
 <html>
 <head>
 <title>Ugly Home Page</title>
+
+<font size="5">
 <img src="Scared of crows .gif"/>
 </head>
 <body>
@@ -33,7 +35,7 @@
   <li> Legend of Zelda Ocarina</li>
   <img src="220px-The_Legend_of_Zelda_Ocarina_of_Time_box_art.png" width="500" hight="500">
 </ol>
-
+</font> 
 </body>
 
 <html>
