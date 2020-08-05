@@ -3,7 +3,7 @@
 <head>
 <title>Ugly Home Page</title>
 
-<font size="5">
+<font size="50">
 <img src="Scared of crows .gif"/>
 </head>
 <body>
