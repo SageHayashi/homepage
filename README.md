@@ -1,18 +1,16 @@
 
 <html>
 <head>
-<title>Ugly Home Page</title>
-
-
-<img src="Scared of crows .gif"/>
+  <title>Ugly Home Page</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap" rel="stylesheet">
 </head>
-<body>
+<body style="font-family: 'Rowdies', cursive;">
 
 
 
-<title>List of my favorite video games:</title>
+<h1>List of my favorite video games:</h1>
 
-<ol>
+<ol style="font-size=8vw">
  
   <li> Minecraft</li>
 <img src="220px-Minecraft_cover.png" width="500" hight="500">
@@ -35,7 +33,7 @@
   <li> Legend of Zelda Ocarina</li>
   <img src="220px-The_Legend_of_Zelda_Ocarina_of_Time_box_art.png" width="500" hight="500">
 </ol>
-
+</font> 
 </body>
 
 <html>
